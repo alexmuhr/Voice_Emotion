@@ -57,4 +57,4 @@ data to a CNN, then making predictions on a test set of files.
   
 The CNN was able to predict the emotion of the test set files with 83% accuracy. 
   
-insert image
+![Model Accuracy](model_accuracy.png)
