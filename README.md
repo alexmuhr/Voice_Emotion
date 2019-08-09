@@ -5,7 +5,7 @@
 Human expression and communication is multi-faceted and complex. For example, a speaker
 not only communicates through words, but also through cadence, intonation, facial
 expressions, and body language. It's why we prefer to hold business meetings in person
-rather than over conference calls, and why conference calls are preffered over emails or texting.
+rather than over conference calls, and why conference calls are preferred over emails or texting.
 The closer we are the more communication bandwidth exists.
 
 Voice recognition software has advanced greatly in recent years. This technology 
